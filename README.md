@@ -19,7 +19,7 @@
 <!-- Content --> 
 <div>
   <h2>Project Index</h2>
-  <ul>
+
   <section>
     <h3>Personal Projects:</h3> 
     <h6>Located at github.com/paceart1</h6>
@@ -27,7 +27,7 @@
       <li>Coming soon......</li>
     </ul>
   </section>
-  
+  <h2> </h2>
   <section>
     <h3>Teaching Projects:</h3>
     <h6>Located at github.com/paceart1-Teaching-and-Demonstration</h6>
@@ -35,7 +35,7 @@
       <li><a href="https://github.com/paceart1-Teaching-and-Demonstration/NPC_Pathfinding">NPC Pathfinding</a></li>
     </ul>
   </section>
-  </ul>
+
 </div>
 
 <!--
