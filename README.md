@@ -24,7 +24,7 @@
     <h3>Personal Projects:</h3> 
     <h6>Located at github.com/paceart1</h6>
     <ul>
-      <li>Coming soon......</li>
+      <li><a href="https://github.com/paceart1/ComicSearch">Comic Search</a></li>  
     </ul>
   </section>
   <h2> </h2>
@@ -32,7 +32,9 @@
     <h3>Teaching Projects:</h3>
     <h6>Located at github.com/paceart1-Teaching-and-Demonstration</h6>
     <ul>
+      <li><a href="https://github.com/paceart1-Teaching-and-Demonstration/GridPathFinder">Grid BFS Path Finding</a></li>
       <li><a href="https://github.com/paceart1-Teaching-and-Demonstration/NPC_Pathfinding">NPC Pathfinding</a></li>
+      <li><a href="https://github.com/paceart1-Teaching-and-Demonstration/Roaches_Subscriber">Roaches Subscriber Pattern</a></li>
     </ul>
   </section>
 
