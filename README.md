@@ -1,6 +1,13 @@
-Welcome.
+<h2>Jonathan Pace</h2>
+<h4>Archived Account</h4>
 
-This portfolio has been moved to my new account at:
-<a href="https://www.github.com/Jonathan-Pace">
-Github.com/Jonathan-Pace
-</a>
+<p>
+  You’ve reached my archived GitHub account.
+  My active work and portfolio have moved to:
+</p>
+
+<p>
+  <a href="https://github.com/Jonathan-Pace">
+    https://github.com/Jonathan-Pace
+  </a>
+</p>
